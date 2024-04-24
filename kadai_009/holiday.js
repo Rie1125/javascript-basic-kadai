@@ -3,7 +3,7 @@ const holidays = ["正月","成人の日","建国記念日","天皇誕生日","�
 
 //１〜１６までの記念日を順番に出力する
 //変数numに１〜１６までの整数を代入する
-for ( let i = 0; i <=16; i += 1){
+for ( let i = 0; i <=15; i += 1){
   console.log(holidays[i]);
 }
 
